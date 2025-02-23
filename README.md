@@ -1,5 +1,7 @@
+[![MasterHead](banner.gif)]([https://shahma-p.io](https://github.com/shahma-p))
 <h1 align="center">Hi 👋, I'm Shahma p</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<img align="right" alt="Coding"  width="350"  src="coding.gif">
 
 - 🌱 I’m currently learning **Wordpress,Shopify**
 
